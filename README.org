@@ -5,5 +5,5 @@ iconv(man 3 iconv) library for Common Lisp
 |---------+------------------------------------------|
 | source  | git:https://github.com/quek/cl-iconv.git |
 | commit  | 54900c3                                  |
-| systems | (iconv)                                  |
+| systems | iconv                                    |
 |---------+------------------------------------------|
